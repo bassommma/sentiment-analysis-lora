@@ -1,0 +1,7 @@
+transformers
+torch
+peft
+datasets
+scikit-learn
+numpy
+wandb

@@ -1,0 +1,36 @@
+# Common Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Model files and data
+*.pth
+*.pt
+*.bin
+results/
+wandb/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large files and directories
+*.log
+logs/
